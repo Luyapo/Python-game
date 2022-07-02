@@ -1,3 +1,3 @@
 # Python-games_basics
 
-* Pygame Page: http://pygame.org *
+* Pygame Page: http://pygame.org 
