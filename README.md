@@ -9,6 +9,11 @@
   * Icon Archive: https://iconarchive.com/
   * Leshy SFMaker: https://www.leshylabs.com/apps/sfMaker/
   * Font Space: https://www.fontspace.com/commercial-fonts
+  * Game Art 2D: https://www.gameart2d.com/freebies.html
+  * OpenGameArt.org: https://opengameart.org/
+  * freepik: https://www.freepik.com/free-photos-vectors/game-background
+  * Chosic: https://www.chosic.com/free-music/games/
+  * RedKetchup: https://redketchup.io/color-picker
    
   <br>
 
