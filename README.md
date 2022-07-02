@@ -1,9 +1,9 @@
 # Python-games_basics 
-#### 利用pygame創造的小遊戲
+**_利用pygame創造的小遊戲_**
 
---- 
+<br>
 
-**_參考資料_**
+## 參考資料
   * Pygame Page: http://pygame.org 
   * Documentation: http://pygame.org/docs/ref
   * Icon Archive: https://iconarchive.com/
@@ -46,8 +46,9 @@ player_rect.left    = 32
 player_rect.centery = WINDOW_HEIGHT//2
 displayscreen.blit(player_image, player_rect)
 ```
+<br>
 
-**_Game Assets_**
+## Game Assets
 * [Icon Archive:](https://iconarchive.com/) 提供很多遊戲角色下載
 * [Leshy SFMaker:](https://www.leshylabs.com/apps/sfMaker/) 網站可以下載遊戲音效，也可以自行製作<br>
 
